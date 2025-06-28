@@ -1,0 +1,189 @@
+#main {
+    margin-bottom: -20px;
+}
+
+.mianh1 {
+    margin-top: 30px;
+    margin-left: 280px;
+    font-weight: 750;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.container {
+
+    height: 650px;
+    width: 1100px;
+    background-color: rgb(228, 228, 228);
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns: auto auto auto; 
+
+}
+
+img {
+    height: 35px;
+    width: 35px;
+    position: absolute;
+    left: 840px;
+    top: 103px;
+}
+
+.taskh2{
+
+position: absolute;
+left: 886px;
+top: 87px;
+
+}
+
+.trip {
+
+    height: 270px;
+    width: 247px;
+    border: 1px solid rgb(201, 192, 183);
+    border-radius: 20px;
+    background-color:white;
+    margin-top: 60px;
+    margin-left: 130px;
+    
+
+
+}
+
+.triph4 {
+
+    font-size: 19px;
+    color: rgb(68, 219, 219);
+    margin-left: 13px;
+
+}
+
+
+.list {
+
+    height: 270px;
+    width: 247px;
+    border: 1px solid rgb(201, 192, 183);
+    border-radius: 20px;
+    background-color:white;
+    margin-top: 60px;
+    
+
+
+}
+
+.listh4 {
+font-size: 19px;
+    color: rgb(68, 219, 219);
+    margin-left: 13px;
+
+}
+
+
+.watch {
+
+    height: 270px;
+    width: 247px;
+    border: 1px solid rgb(201, 192, 183);
+    border-radius: 20px;
+    background-color:white;
+    margin-top: 60px;
+    margin-right: 100px;
+
+
+}
+
+.watchh4 {
+font-size: 19px;
+    color: rgb(68, 219, 219);
+    margin-left: 13px;
+
+
+}
+
+
+
+.daily {
+
+    height: 270px;
+    width: 247px;
+    border: 1px solid rgb(201, 192, 183);
+    border-radius: 20px;
+    background-color:white;
+    margin-top: -35px;
+    margin-left: 130px;
+    
+
+
+}
+
+.dailyh4 {
+font-size: 19px;
+    color: rgb(68, 219, 219);
+    margin-left: 13px;
+
+}
+
+
+.read {
+
+    height: 270px;
+    width: 247px;
+    border: 1px solid rgb(201, 192, 183);
+    border-radius: 20px;
+    background-color:white;
+    margin-top: -35px;
+    
+
+
+
+}
+
+.readh4 {
+font-size: 19px;
+    color: rgb(68, 219, 219);
+    margin-left: 13px;
+
+}
+
+.checkbox1 {
+    
+    margin-left: 20px;
+    height: 22px;
+    width: 22px;
+    bottom: 120pxpx;
+    position: absolute;
+    /* cursor: default; */
+    
+
+}
+
+.checkbox2 {
+    
+    margin-left: 20px;
+    height: 22px;
+    width: 22px;
+    margin-top: 0px;
+    position: relative;
+    top: -24px;
+
+    
+
+}
+
+.paragraph1 {
+
+    margin-left: 48px;
+    margin-top: 12px;
+    color: #b3abab;
+    text-decoration: line-through;
+
+}
+
+.paragraph2 {
+    margin-left: 50px;
+    margin-top: -48px;
+
+}
